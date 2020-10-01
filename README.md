@@ -1,5 +1,7 @@
 # knight_moves
 
-This project is from The Odin Project and is focused on the basics of graphs.
+A knight in chess can move to any square on the standard 8x8 chess board.
 
-The input is two coordinates on a chess board i.e. [5, 5] and [3, 4] and the end goal is to return the shortest path between these two points.
+This program returns the shortest path between two squares on a chess board.
+
+It employs a breadth first search algorithm to find the shortest path on a undirected graph.
